@@ -6,10 +6,13 @@
 Welcome to flexcpp-docs's documentation!
 ========================================
 
+.. note::
+
+   This project is under active development.
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
+   pages/installation
 
 
 Indices and tables
