@@ -12,6 +12,7 @@ Welcome to flexcpp-docs's documentation!
 
 .. toctree::
    :maxdepth: 2
+   
    pages/installation
 
 
