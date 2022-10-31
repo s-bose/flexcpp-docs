@@ -1,19 +1,12 @@
-# flexcpp-docs
+# FlexC++ Documentation
 
-Starter code generated using `sphinx-quickstart`. If you're using Debian/Ubuntu please use
+## Unofficial documentation for the FlexC++ library
 
-```bash
-apt install python3-sphinx
-```
+[![Documentation Status](https://readthedocs.org/projects/flexcpp-docs/badge/?version=latest)](https://flexcpp-docs.readthedocs.io/en/latest/?badge=latest) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
-On windows, sphinx can be installed via pip or conda as follows:
 
-```bash
-pip install -U sphinx
-```
-or,
-```bash
-conda install sphinx
-```
+Original Repository: [flexcpp](https://gitlab.com/fbb-git/flexcpp)
 
-For more info on sphinx, refer to [this](https://www.sphinx-doc.org/en/master/usage/installation.html) page.
+__Maintainers__
++ [Shiladitya Bose](https://github.com/s-bose)
++ [Pranesh Mukhopadhyay](https://github.com/Mukhopadhyay)
