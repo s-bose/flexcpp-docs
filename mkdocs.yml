@@ -1,1 +1,7 @@
 site_name: FlexC++ Docs
+site_url: https://flexcpp-docs.readthedocs.io/en/latest/
+
+nav:
+  - Open-Source Projects: projects.md
+
+theme: readthedocs
