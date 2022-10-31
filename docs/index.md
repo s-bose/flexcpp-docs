@@ -1,17 +1,17 @@
 # FlexC++ User manual
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Unofficial documentation for the FlexC++ library
 
-## Commands
+[![Documentation Status](https://readthedocs.org/projects/flexcpp-docs/badge/?version=latest)](https://flexcpp-docs.readthedocs.io/en/latest/?badge=latest) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+__Original Repository__: [flexcpp](https://gitlab.com/fbb-git/flexcpp)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+__Author__: [Frank B. Brokken](https://gitlab.com/fbb-git)
+
+__Maintainers__
++ [Shiladitya Bose](https://github.com/s-bose)
++ [Pranesh Mukhopadhyay](https://github.com/Mukhopadhyay)
+
+Checkpoint: https://fbb-git.gitlab.io/flexcpp/
+
