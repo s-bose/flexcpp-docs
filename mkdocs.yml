@@ -4,4 +4,4 @@ site_url: https://flexcpp-docs.readthedocs.io/en/latest/
 nav:
   - Open-Source Projects: projects.md
 
-theme: readthedocs
+theme: material
