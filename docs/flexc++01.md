@@ -1,24 +1,4 @@
 
-
- Flexc++ (Version 2.11.00) User Guide 
-
- #title,#author,#date {text-align: center;}
- figure {text-align: center;}
- img {vertical-align: center;}
- .XXfc {margin-left:auto;margin-right:auto;}
- .XXtc {text-align: center;}
- .XXtl {text-align: left;}
- .XXtr {text-align: right;}
- .XXvt {vertical-align: top;}
- .XXvb {vertical-align: bottom;}
-
-
-
-
-
----
-
-
 * [Table of Contents](flexc++.html)* [Next Chapter](flexc++02.html)
 
 

@@ -2,6 +2,14 @@ site_name: FlexC++ Docs
 site_url: https://flexcpp-docs.readthedocs.io/en/latest/
 
 nav:
+  - FlexC++: flexc++.md
+  - FlexC++ 01: flexc++01.md
+  - FlexC++ 02: flexc++02.md
+  - FlexC++ 03: flexc++03.md
+  - FlexC++ 04: flexc++04.md
+  - FlexC++ 05: flexc++05.md
+  - FlexC++ 06: flexc++06.md
+  - FlexC++ 01: flexc++01.md
   - Open-Source Projects: projects.md
 
 theme: material
